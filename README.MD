@@ -11,7 +11,9 @@ The only options seem to be taking legal action or spamming the database with ne
 I believe the balance is just a counter and not an accumulated amount from separate data entries.
 
 ## Installation
-Make sure to have Tampermonkey/Greasemonkey/Violentmonkey installed, then click [here](https://raw.githubusercontent.com/gekkedev/referral-scam-captcha-bot/master/captchabot.user.js) and confirm your intention to install the Userscript.
+1. make sure to have [Tampermonkey/Greasemonkey/Violentmonkey](https://gist.github.com/gekkedev/492e1b541ea3dd2cd8fbcc358fd224af) installed
+1. click [here](https://raw.githubusercontent.com/gekkedev/referral-scam-captcha-bot/master/captchabot.user.js)
+1. confirm your intention to install the Userscript.
 
 ## Contributing
 Feel free to submit any pull requests with additional links (likely a lot of compatible websites using the same script exist).
